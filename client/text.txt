@@ -1,0 +1,4 @@
+ "options": {
+    "allowedHosts": ["localhost", ".localhost"],
+    "proxy": "http://localhost:27017/api/v1/"
+  },
